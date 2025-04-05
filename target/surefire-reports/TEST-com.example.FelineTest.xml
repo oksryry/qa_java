@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="com.example.FelineTest" time="0.108" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="com.example.FelineTest" time="0.176" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3.3"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -65,10 +65,10 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="com.example.FelineTest" name="felineGetKittensWithParameterTest" time="0.001"/>
-  <testcase classname="com.example.FelineTest" name="getFoodException" time="0.1"/>
-  <testcase classname="com.example.FelineTest" name="felineGetFamilyTest" time="0.001"/>
-  <testcase classname="com.example.FelineTest" name="felineGetKittensWithoutParameterTest" time="0.002"/>
-  <testcase classname="com.example.FelineTest" name="verifyFoodListTest" time="0"/>
-  <testcase classname="com.example.FelineTest" name="verifyGetFoodInvokation" time="0.004"/>
+  <testcase classname="com.example.FelineTest" name="felineGetKittensWithParameterTest" time="0.003"/>
+  <testcase classname="com.example.FelineTest" name="getFoodException" time="0.16"/>
+  <testcase classname="com.example.FelineTest" name="felineGetFamilyTest" time="0.002"/>
+  <testcase classname="com.example.FelineTest" name="felineGetKittensWithoutParameterTest" time="0.001"/>
+  <testcase classname="com.example.FelineTest" name="verifyFoodListTest" time="0.001"/>
+  <testcase classname="com.example.FelineTest" name="verifyGetFoodInvokation" time="0.009"/>
 </testsuite>

@@ -12,8 +12,6 @@ public class CatTest {
 
     public static final String CAT_SOUND = "Мяу";
 
-    @Mock
-    private Predator predator;
 
     @Mock
     private Feline feline;

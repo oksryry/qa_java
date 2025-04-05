@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="com.example.LionTest" time="0.021" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="com.example.LionTest" time="0.055" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3.3"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -65,10 +65,10 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="com.example.LionTest" name="lionGetFoodInvokationParameter" time="0.005"/>
-  <testcase classname="com.example.LionTest" name="lionSexException" time="0.002"/>
-  <testcase classname="com.example.LionTest" name="lionGetKittensValueTest" time="0.01"/>
-  <testcase classname="com.example.LionTest" name="lionGetKittensTimesTest" time="0.002"/>
-  <testcase classname="com.example.LionTest" name="lionGetFoodTimes" time="0.002"/>
-  <testcase classname="com.example.LionTest" name="lionSexExceptionMessage" time="0"/>
+  <testcase classname="com.example.LionTest" name="lionGetFoodInvokationParameter" time="0.011"/>
+  <testcase classname="com.example.LionTest" name="lionSexException" time="0.003"/>
+  <testcase classname="com.example.LionTest" name="lionGetKittensValueTest" time="0.031"/>
+  <testcase classname="com.example.LionTest" name="lionGetKittensTimesTest" time="0.003"/>
+  <testcase classname="com.example.LionTest" name="lionGetFoodTimes" time="0.005"/>
+  <testcase classname="com.example.LionTest" name="lionSexExceptionMessage" time="0.002"/>
 </testsuite>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="com.example.FelineParamsTest" time="0.023" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="com.example.FelineParamsTest" time="0.018" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3.3"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -65,8 +65,8 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="com.example.FelineParamsTest" name="returnGivenKittens[0: Ожидаемое количество котят: -3, вернулось значение -3]" time="0.022"/>
+  <testcase classname="com.example.FelineParamsTest" name="returnGivenKittens[0: Ожидаемое количество котят: -3, вернулось значение -3]" time="0.018"/>
   <testcase classname="com.example.FelineParamsTest" name="returnGivenKittens[1: Ожидаемое количество котят: 0, вернулось значение 0]" time="0"/>
   <testcase classname="com.example.FelineParamsTest" name="returnGivenKittens[2: Ожидаемое количество котят: 1, вернулось значение 1]" time="0"/>
-  <testcase classname="com.example.FelineParamsTest" name="returnGivenKittens[3: Ожидаемое количество котят: 12, вернулось значение 12]" time="0.001"/>
+  <testcase classname="com.example.FelineParamsTest" name="returnGivenKittens[3: Ожидаемое количество котят: 12, вернулось значение 12]" time="0"/>
 </testsuite>
